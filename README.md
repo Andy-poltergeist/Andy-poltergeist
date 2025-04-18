@@ -3,4 +3,4 @@
 Для работы с данными я использую Python, SQL, Jupyter Notebook.
 
 Контакты:
-[Telegram]()
+[Telegram](@na_an_ku)
